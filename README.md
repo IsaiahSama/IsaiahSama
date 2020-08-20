@@ -1,16 +1,15 @@
-### Hi there 👋
+# >:)
 
-<!--
-**IsaiahSama/IsaiahSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I
 
-Here are some ideas to get you started:
+My name is Isaiah Carrington, your above average Otaku and an Aspiring Python developer. 
+My dream is to eventually get into and gain a level of mastery over Machine Learning and AI creation and I exist to flex on za warudo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I like?
+
+I love anime, programming, reading, interacting with others, and learning as much as I can about everything that interests me.
+
+## Current Project
+
+Currently, I'm working on my Discord Bot Isaiah's Parade, which you can see in my Pinned Repos.
+
