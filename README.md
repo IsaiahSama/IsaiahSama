@@ -10,6 +10,8 @@ My dream is to eventually get into and gain a level of mastery over Machine Lear
 I love anime, programming, reading, interacting with others, and learning as much as I can about everything that interests me.
 
 ## Current Project
+Optimization on my discord bots
 
-Currently, working on a customizable bot to join google meetings in timed succession using Selenium, Pyautogui and Tkinter
+##Sad fact
+Laptop broke... so no more dev :(
 
