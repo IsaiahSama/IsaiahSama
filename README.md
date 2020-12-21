@@ -12,6 +12,6 @@ I love anime, programming, reading, interacting with others, and learning as muc
 ## Current Project
 Optimization on my discord bots
 
-##Sad fact
+## Sad fact
 Laptop broke... so no more dev :(
 
