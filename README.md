@@ -11,4 +11,4 @@ I love anime, programming, reading, interacting with others, and learning as muc
 
 ## Current Doing
 
-Improving knowledge on algorithms and preparing for university
+Improving knowledge on algorithms and studying at a University
