@@ -1,6 +1,6 @@
-# Say hi😎
+# About me
 
-Hey, I'm Isaiah, a python programmer specializing in Automation, scripting and backend development.
+Hey, I'm Isaiah, a python programmer specializing in Automation, scripting and backend development, born and raised in the Carribean.
 
 ## My interests
 
