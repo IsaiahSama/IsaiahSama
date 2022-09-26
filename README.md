@@ -1,10 +1,8 @@
-## Who am I
+# Say hi😎
 
-My name is Isaiah Carrington, your above average Otaku and an Aspiring Data Scientist. 
-My dream is to eventually get into and gain a level of mastery over Machine Learning and AI creation.
-Currently, I am involved and specialize in the Python language
+Hey, I'm Isaiah, a python programmer specializing in Automation, scripting and backend development.
 
-## What I like?
+## My interests
 
 I love anime, programming, reading, interacting with others, and learning as much as I can about everything that interests me.
 
