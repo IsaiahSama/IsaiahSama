@@ -5,7 +5,3 @@ Hey, I'm Isaiah, a python programmer specializing in Automation, scripting and b
 ## My interests
 
 I love anime, programming, reading, interacting with others, and learning as much as I can about everything that interests me.
-
-## Current Doing
-
-Wee Woo
