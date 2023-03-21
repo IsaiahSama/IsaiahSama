@@ -8,4 +8,4 @@ I love anime, programming, reading, interacting with others, and learning as muc
 
 ## Current Doing
 
-Improving knowledge on algorithms and a student of The University of The West Indies
+Wee Woo
