@@ -3,6 +3,7 @@
 Isaiah here 🙋🏾‍♂️
 
 - Carribean Developer
+- I like Pineapples 🍍.
 - Fields within my reach
   1. Python
     * Automation
@@ -24,4 +25,4 @@ Isaiah here 🙋🏾‍♂️
     * Pixel Animations
   7. Blender (Highly Beginner Level)
     * Basic Modeling
-- I like Pineapples 🍍.
+
