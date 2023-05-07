@@ -1,7 +1,29 @@
 # About me
 
-Hey, I'm Isaiah, a python programmer specializing in Automation, scripting and backend development, born and raised in the Carribean.
+Isaiah here 🙋🏾‍♂️
 
-## My interests
+- Carribean Developer
+- Fields within my reach
+  . Python
+    - Automation
+    - Backend Development
+    - Scripting
+    - Web Scraping
+  . JavaScript
+    - Full stack with FERN stack (Firebase, Express, React, Node)
+    - Mobile Development with React Native + Expo
+  . HTML, CSS, JS
+    - Basic Web stuff.
+  . Unity (Highly beginner level)
+    - AR Experiences 
+    - 3D games
+  . Music (Highly Beginner)
+    - MIDI Piano 
+  . Art
+    - Pixelart
+    - Pixel Animations
+  . Blender (Highly Beginner Level)
+    - Basic Modeling
 
-I love anime, programming, reading, interacting with others, and learning as much as I can about everything that interests me.
+P.S:
+I like Pineapples. 🍍
