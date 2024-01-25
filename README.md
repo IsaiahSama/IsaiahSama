@@ -10,14 +10,13 @@ Isaiah here 🙋🏾‍♂️
     * Backend Development
     * Scripting
     * Web Scraping
+    * Full Stack (Flask, HTMX, SQLite)
   2. JavaScript
     * Full stack with FERN stack (Firebase, Express, React, Node)
     * Mobile Development with React Native + Expo
   3. HTML, CSS, JS
     * Basic Web stuff.
-  4. Unity (Highly beginner level)
-    * AR Experiences 
-    * 3D games
+  4. Godot
   5. Music (Highly Beginner)
     * MIDI Piano 
   6. Art
